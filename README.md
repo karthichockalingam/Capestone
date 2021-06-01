@@ -1,6 +1,6 @@
 # Introduction
 
-This project is about building an object orientated parking lot. There are three types of vehicles namely, motorcycle, cars and buses. The parking lot has three kinds of parking spaces small, compact and large spaces. Motorcycles can be parked in any kind of spaces. Whereas cars can be parked in both compact and large spaces. However, buses can only be parked in large spaces. Currently, the parking lot is hard coded to have 5 small spaces, 20 compact spaces, and 10 larges spaces. If the parking lot is full then the vehicles are sent to the queue. The user has to input the number of motorcycles, cars and buses to parked in the parking lot.
+This project is about building an object orientated parking lot. There are three types of vehicles namely, motorcycle, cars and buses. The parking lot has three kinds of parking spaces small, compact and large spaces. Motorcycles can be parked in any spot, whereas cars can be parked in both compact and large spaces. However, buses can only be parked in large spaces. Currently, the parking lot is hard coded to have 5 small spaces, 20 compact spaces, and 10 larges spaces. If the parking lot is full then the vehicles are sent to the queue. The user has to input the number of motorcycles, cars and buses to parked in the parking lot.
 
 # Program files
 
