@@ -4,11 +4,11 @@ This project is about building an object orientated parking lot. There are three
 
 # Program files
 
-`vehicle.hpp` and vehicle.cpp contains information about the vehicle; such as the type of the vehicle, vehicle id and if it is currently parked.
+`vehicle.hpp` and `vehicle.cpp` contains information about the vehicle; such as the type of the vehicle, vehicle id and if it is currently parked.
 
-ParkingSpace.hpp and ParkingSpace.cpp, from which three type of parking spaces are inheritered. It also stores information if the parking space is occupied are not.
+`ParkingSpace.hpp` and `ParkingSpace.cpp`, from which three type of parking spaces are inheritered. It also stores information if the parking space is occupied are not.
 
-ParkingHandler.hpp and ParkingHandler.cpp, has the name implies it handles the parking of the vehicles at the appropriate spaces in the parking lot.
+`ParkingHandler.hpp` and `ParkingHandler.cpp`, has the name implies it handles the parking of the vehicles at the appropriate spaces in the parking lot.
 
 
 # Build
