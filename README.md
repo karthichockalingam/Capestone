@@ -13,7 +13,7 @@ This project is about building an object orientated parking lot. There are three
 
 # Build
 
-run the makefile using the 'make' command which should produce the executable 'parking'
+run the makefile using the `make` command which should produce the executable `parking`
 
 # Rubric
 
