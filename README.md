@@ -21,11 +21,15 @@ Runnig the makefile using the `make` command should produce the executable `park
 
 2. The main.cpp uses a while loop to park all the vehicle entered by the user. 
 
-3. The project uses object orientated data structure and inheritance from the base class is implemented.
+3. The project uses object orientated data structure for vehicle, parkingSpace and ParkingHandler.
 
-4. The class data structure uses private, public member variables.
+4. Inheritance from the base class parkingspace is implemented to small, compact and large parking spaces.
 
-5. The program uses dynamic memory management through unique pointers to hold the total number of vehicles to be parked.
+5. All class data structure uses private, public member variables.
+
+6. The program uses dynamic memory management through unique pointers to hold the total number of vehicles to be parked.
+
+7. Raw pointers are extracted from the unique pointer to be passed by value for function parameters.
 
 
 
